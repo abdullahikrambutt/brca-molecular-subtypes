@@ -1,0 +1,126 @@
+model,split,c_index
+Clinical (age + stage),1,0.6007061197041023
+Clinical + PAM50,1,0.6383658372562205
+Clinical + discovered clusters,1,0.6313046402151984
+Clinical + expression PCs,1,0.6385339609952926
+Expression PCs only,1,0.5813718897108272
+Clinical (age + stage),2,0.549741124260355
+Clinical + PAM50,2,0.6244452662721893
+Clinical + discovered clusters,2,0.6188979289940828
+Clinical + expression PCs,2,0.6076183431952663
+Expression PCs only,2,0.5961538461538461
+Clinical (age + stage),3,0.6826657458563536
+Clinical + PAM50,3,0.7013121546961326
+Clinical + discovered clusters,3,0.7047651933701657
+Clinical + expression PCs,3,0.6982044198895028
+Expression PCs only,3,0.5804558011049724
+Clinical (age + stage),4,0.6359773371104815
+Clinical + PAM50,4,0.6774079320113314
+Clinical + discovered clusters,4,0.6827195467422096
+Clinical + expression PCs,4,0.6710339943342776
+Expression PCs only,4,0.5715297450424929
+Clinical (age + stage),5,0.6386897001303781
+Clinical + PAM50,5,0.6758474576271186
+Clinical + discovered clusters,5,0.6771512385919165
+Clinical + expression PCs,5,0.6848109517601043
+Expression PCs only,5,0.6088657105606258
+Clinical (age + stage),6,0.6540055248618785
+Clinical + PAM50,6,0.6533149171270718
+Clinical + discovered clusters,6,0.6512430939226519
+Clinical + expression PCs,6,0.6460635359116023
+Expression PCs only,6,0.5490331491712708
+Clinical (age + stage),7,0.5590565358300325
+Clinical + PAM50,7,0.628736046092906
+Clinical + discovered clusters,7,0.6384587684551675
+Clinical + expression PCs,7,0.6269355419517465
+Expression PCs only,7,0.5783219301404393
+Clinical (age + stage),8,0.6743676222596965
+Clinical + PAM50,8,0.6507588532883642
+Clinical + discovered clusters,8,0.6662731871838111
+Clinical + expression PCs,8,0.6630691399662731
+Expression PCs only,8,0.5318718381112985
+Clinical (age + stage),9,0.6085515412661584
+Clinical + PAM50,9,0.6667219091813059
+Clinical + discovered clusters,9,0.6723566456745111
+Clinical + expression PCs,9,0.6675505469008949
+Expression PCs only,9,0.6264501160092807
+Clinical (age + stage),10,0.6007067137809188
+Clinical + PAM50,10,0.676678445229682
+Clinical + discovered clusters,10,0.6798586572438162
+Clinical + expression PCs,10,0.6763250883392227
+Expression PCs only,10,0.6219081272084805
+Clinical (age + stage),11,0.6414839797639124
+Clinical + PAM50,11,0.6731871838111299
+Clinical + discovered clusters,11,0.6826306913996627
+Clinical + expression PCs,11,0.6799325463743676
+Expression PCs only,11,0.6033726812816189
+Clinical (age + stage),12,0.6084437086092715
+Clinical + PAM50,12,0.6932119205298013
+Clinical + discovered clusters,12,0.6932119205298013
+Clinical + expression PCs,12,0.687748344370861
+Expression PCs only,12,0.6125827814569537
+Clinical (age + stage),13,0.6320517427236795
+Clinical + PAM50,13,0.6624146604383758
+Clinical + discovered clusters,13,0.6609773625583902
+Clinical + expression PCs,13,0.6514552641034854
+Expression PCs only,13,0.5939633489040603
+Clinical (age + stage),14,0.6392757660167131
+Clinical + PAM50,14,0.666782729805014
+Clinical + discovered clusters,14,0.661908077994429
+Clinical + expression PCs,14,0.6723537604456824
+Expression PCs only,14,0.5414345403899722
+Clinical (age + stage),15,0.6069204152249135
+Clinical + PAM50,15,0.6422145328719723
+Clinical + discovered clusters,15,0.6442906574394464
+Clinical + expression PCs,15,0.6477508650519032
+Expression PCs only,15,0.5937716262975778
+Clinical (age + stage),16,0.6313094367227505
+Clinical + PAM50,16,0.6667885881492319
+Clinical + discovered clusters,16,0.6602048280907096
+Clinical + expression PCs,16,0.660936356986101
+Expression PCs only,16,0.576444769568398
+Clinical (age + stage),17,0.6570619586942039
+Clinical + PAM50,17,0.7108594270486343
+Clinical + discovered clusters,17,0.717854763491006
+Clinical + expression PCs,17,0.7071952031978681
+Expression PCs only,17,0.5909393737508328
+Clinical (age + stage),18,0.6202384895660815
+Clinical + PAM50,18,0.6889698575687314
+Clinical + discovered clusters,18,0.6886386220602848
+Clinical + expression PCs,18,0.6873136800264988
+Expression PCs only,18,0.6253726399470023
+Clinical (age + stage),19,0.6027036516853933
+Clinical + PAM50,19,0.6257022471910112
+Clinical + discovered clusters,19,0.6316713483146067
+Clinical + expression PCs,19,0.6281601123595506
+Expression PCs only,19,0.5712780898876404
+Clinical (age + stage),20,0.6232566248256625
+Clinical + PAM50,20,0.6577754532775453
+Clinical + discovered clusters,20,0.6560320781032078
+Clinical + expression PCs,20,0.6586471408647141
+Expression PCs only,20,0.5917015341701534
+Clinical (age + stage),21,0.6147798742138365
+Clinical + PAM50,21,0.6175751222921034
+Clinical + discovered clusters,21,0.620020964360587
+Clinical + expression PCs,21,0.629979035639413
+Expression PCs only,21,0.5157232704402516
+Clinical (age + stage),22,0.6277739251040222
+Clinical + PAM50,22,0.6796116504854369
+Clinical + discovered clusters,22,0.6875866851595007
+Clinical + expression PCs,22,0.6744105409153953
+Expression PCs only,22,0.579750346740638
+Clinical (age + stage),23,0.6573765020026703
+Clinical + PAM50,23,0.6944259012016022
+Clinical + discovered clusters,23,0.6887516688918558
+Clinical + expression PCs,23,0.6975967957276369
+Expression PCs only,23,0.6672229639519359
+Clinical (age + stage),24,0.6421551421551421
+Clinical + PAM50,24,0.7165672165672166
+Clinical + discovered clusters,24,0.7148122148122148
+Clinical + expression PCs,24,0.717093717093717
+Expression PCs only,24,0.6377676377676378
+Clinical (age + stage),25,0.597763470010166
+Clinical + PAM50,25,0.6175872585564216
+Clinical + discovered clusters,25,0.6308031175872586
+Clinical + expression PCs,25,0.6160623517451711
+Expression PCs only,25,0.5598102338190444

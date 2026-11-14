@@ -1,0 +1,16 @@
+model,fold,balanced_accuracy,macro_F1
+Baseline (stratified guess),1,0.20106998264893,0.19229167905787187
+Baseline (stratified guess),2,0.19031598604354025,0.18677975172134806
+Baseline (stratified guess),3,0.20249454707659043,0.20478842573601339
+Baseline (stratified guess),4,0.17160548429898276,0.1603357420087722
+Baseline (stratified guess),5,0.17758037628006668,0.17649415261355558
+Elastic-net logistic regression,1,1.0,1.0
+Elastic-net logistic regression,2,1.0,1.0
+Elastic-net logistic regression,3,1.0,1.0
+Elastic-net logistic regression,4,1.0,1.0
+Elastic-net logistic regression,5,1.0,1.0
+Random forest,1,1.0,1.0
+Random forest,2,1.0,1.0
+Random forest,3,1.0,1.0
+Random forest,4,1.0,1.0
+Random forest,5,1.0,1.0

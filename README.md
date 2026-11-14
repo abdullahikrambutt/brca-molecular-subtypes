@@ -79,7 +79,6 @@ Figures go to `figures/` and tables to `results/`. Settings such as the number o
 - **Single omics layer.** Only gene expression is used. Real molecular endotyping would integrate genomics, methylation, proteomics and other layers.
 - **Cohort and follow-up.** TCGA is not a population-based cohort, follow-up is relatively short for breast cancer, and treatment information is incomplete, so outcome associations may be confounded.
 - **No external validation.** All performance estimates come from cross-validation within TCGA; a proper evaluation would test models on an independent cohort such as METABRIC.
-- [Add your own observations.]
 
 ## Possible extensions
 
@@ -87,9 +86,7 @@ Figures go to `figures/` and tables to `results/`. Settings such as the number o
 - Validate the discovered subtypes and risk models in METABRIC
 - Replace PCA with an autoencoder or other representation-learning approach
 
-## About this project
-
-A self-directed learning project to practise unsupervised learning, survival analysis and rigorous machine-learning evaluation on real cancer genomics data. Methods follow established approaches:
+## Resources
 
 - Cancer Genome Atlas Network (2012). [Comprehensive molecular portraits of human breast tumours](https://doi.org/10.1038/nature11412). *Nature*
 - Parker et al. (2009). [Supervised risk predictor of breast cancer based on intrinsic subtypes](https://doi.org/10.1200/JCO.2008.18.1370). *J Clin Oncol* (PAM50)
